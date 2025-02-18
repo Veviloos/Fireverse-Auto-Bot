@@ -3,7 +3,7 @@
 An automated bot for FireverseAI Music platform. This bot helps automate daily music listening tasks, including liking songs and commenting.
 
 ## Register Here
-- https://web3.fireverseai.com/login/?invite=8I83HA&url=https://app.fireverseai.com/user
+- https://web3.fireverseai.com/login/?invite=EHPHYA&url=https://app.fireverseai.com/
 
 ## 📱 Join Our Community
 
